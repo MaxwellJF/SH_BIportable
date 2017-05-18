@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://112.64.16.239:9040/pms-wap/upload/iphone/BIPortableHD_SH.ipa</string>
+					<string>http://112.64.16.239:9040/pms-wap/upload/iphone/BIPortableHD_SH.ipa?num=Math.random()</string>
 				</dict>
 				<dict>
 					<key>kind</key>
