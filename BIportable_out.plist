@@ -9,7 +9,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://112.64.16.139:9040/pms-wap/upload/iphone/BIPortableHD_SHout.ipa?num=Math.random()</string>
+                        <string>https://salesnetworkout.10010sh.cn/pms-wap/upload/iphone/BIPortableHD_SHout.ipa?num=Math.random()</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -17,7 +17,7 @@
                         <key>needs-shine</key>
                         <false />
                         <key>url</key>
-                        <string>http://112.64.16.139:9040/pms-wap/upload/iphone/icon512out.png</string>
+                        <string>https://salesnetworkout.10010sh.cn/pms-wap/upload/iphone/icon512out.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -25,7 +25,7 @@
                         <key>needs-shine</key>
                         <false />
                         <key>url</key>
-                        <string>http://112.64.16.139:9040/pms-wap/upload/iphone/icon57out.png</string>
+                        <string>https://salesnetworkout.10010sh.cn/pms-wap/upload/iphone/icon57out.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
