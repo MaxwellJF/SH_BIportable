@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
+	<key>items</key>
 	<array>
 		<dict>
 			<key>assets</key>
@@ -15,19 +15,15 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
+					<string>display-image</string>
 					<key>url</key>
-					<string>https://salesnetwork.10010sh.cn:9040/pms-wap/upload/iphone/icon512.png</string>
+					<string>https://salesnetwork.10010sh.cn:9040/pms-wap/upload/iphone/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
+					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://salesnetwork.10010sh.cn:9040/pms-wap/upload/iphone/icon57.png</string>
+					<string>https://salesnetwork.10010sh.cn:9040/pms-wap/upload/iphone/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,13 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.bonc.BIPortableHD.UNICOM.SH</string>
 				<key>bundle-version</key>
-				<string>1.3</string>
+				<string>2017110918</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>上海网格营销iPhone版</string>
 				<key>title</key>
-				<string>上海网格营销iPhone版</string>
+				<string>BIPortableHD_SH</string>
 			</dict>
 		</dict>
 	</array>
